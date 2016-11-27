@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.chaozheng.li/zhihu_live_note/</loc>
+    
+    <lastmod>2016-11-27T14:37:19.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.chaozheng.li/categories/index.html</loc>
     
     <lastmod>2016-11-27T09:02:13.000Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://www.chaozheng.li/about/index.html</loc>
     
     <lastmod>2016-11-27T08:50:26.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.chaozheng.li/ciw0f3oy90000bpfy7lnciid3/</loc>
-    
-    <lastmod>2016-11-27T08:44:38.000Z</lastmod>
     
   </url>
   
